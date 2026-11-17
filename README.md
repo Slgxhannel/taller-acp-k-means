@@ -4,7 +4,7 @@ Taller individual de **Machine Learning aplicado a Economía y Finanzas** (Ponti
 Aplicación en Streamlit que recorre un análisis de aprendizaje no supervisado sobre la Encuesta de Micronegocios
 (EMICRON) 2024 del DANE.
 
-- **Aplicación desplegada:** _pegar aquí el enlace de Streamlit Community Cloud_
+- **Aplicación desplegada:** https://taller-acp-k-means-ntjp9z2vgvsuvfzkadxuzg.streamlit.app/
 - **Video de sustentación:** _pegar aquí el enlace_
 
 ## Contexto y pregunta

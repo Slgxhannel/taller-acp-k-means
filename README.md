@@ -5,7 +5,7 @@ Aplicación en Streamlit que recorre un análisis de aprendizaje no supervisado 
 (EMICRON) 2024 del DANE.
 
 - **Aplicación desplegada:** https://taller-acp-k-means-ntjp9z2vgvsuvfzkadxuzg.streamlit.app/
-- **Video de sustentación:** _pegar aquí el enlace_
+- **Video de sustentación:** https://drive.google.com/file/d/15t_nJkXRIVWbFI3ynTS7SIRtRcWbQWtw/view?usp=sharing
 
 ## Contexto y pregunta
 
